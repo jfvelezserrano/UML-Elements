@@ -1,4 +1,4 @@
-﻿UML Elements - Jose F. Velez 2022, version 1.0
+﻿UML Elements - Jose F. Velez 2022
 
 Free for global usage for any purpose. If modifying this collection, please mention me. 
 
@@ -13,3 +13,4 @@ This libreoffice extension provides several galleries containing homogeneous UML
 - Package diagram
 
 Version 1.0 presents the UML galeries.
+Version 1.0.1 Minor changes post first release.
