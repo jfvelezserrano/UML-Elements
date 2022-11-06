@@ -14,3 +14,5 @@ This libreoffice extension provides several galleries containing homogeneous UML
 
 Version 1.0 presents the UML galeries.
 Version 1.0.1 Minor changes post first release.
+Version 1.0.2 Improvements in class element interaction
+Version 1.0.3 More improvements in class element interaction and several new elements
