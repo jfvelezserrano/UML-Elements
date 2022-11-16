@@ -13,6 +13,11 @@
   <display-name>
     <name lang="en">UML Elements</name>
   </display-name>
+
+  <publisher>
+    <name lang="en">Jose F. Velez</name>
+  </publisher>
+
   <!-- content of the description file (in description folder) is shown in the extension manager.
 	remember to modify it depending on your extension -->
   <extension-description>
