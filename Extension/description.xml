@@ -10,6 +10,13 @@
 	</registration>
 -->
   <!-- replace YOUR EXTENSION NAME by the right name of your extension -->
+
+  <identifier value="es.urjc.extensions.uml-elements" />
+
+  <update-information>
+    <src xlink:href="https://raw.githubusercontent.com/jfvelezserrano/UML-Elements/main/update.sh" />
+  </update-information>
+
   <display-name>
     <name lang="en">UML Elements</name>
   </display-name>
