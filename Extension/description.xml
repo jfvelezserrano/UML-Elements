@@ -22,7 +22,7 @@
   </display-name>
 
   <publisher>
-    <name lang="en">Jose F. Velez</name>
+    <name xlink:href="https://github.com/jfvelezserrano" lang="en">Jose F. Velez</name>
   </publisher>
 
   <!-- content of the description file (in description folder) is shown in the extension manager.

@@ -16,3 +16,4 @@ Version 1.0 presents the UML galeries.
 Version 1.0.1 Minor changes post first release.
 Version 1.0.2 Solving usability issues
 Version 1.0.3 Improvements in class element interaction and several new elements
+Version 1.0.4 Flat corners for objects, new gallery names, several new symbols, extension update feature and some minor improvements.
