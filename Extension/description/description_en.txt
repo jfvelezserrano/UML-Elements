@@ -1,6 +1,4 @@
-﻿UML Elements - Jose F. Velez 2022
-
-Free for global usage for any purpose (LGPL). If modifying this collection, please mention me.
+﻿Free for global usage for any purpose (LGPL). If modifying this collection, please mention me.
 
 The Unified Modeling Language (UML) is a general-purpose language used to represent knowledge. In 2005, UML was also published by the International Organization for Standardization (ISO) as an approved ISO standard. Although UML is a standard way to visualize the design of any system it is mainly used in Software Devolpment scenarios.
 
@@ -16,4 +14,4 @@ Version 1.0 presents the UML galeries.
 Version 1.0.1 Minor changes post first release.
 Version 1.0.2 Solving usability issues
 Version 1.0.3 Improvements in class element interaction and several new elements
-Version 1.0.4 Mitered corners for objects, new gallery names, several new symbols, extension update feature and some minor improvements.
+Version 1.0.4 Reorganization of galleries, addition of more new shapes and fixing minor bugs.

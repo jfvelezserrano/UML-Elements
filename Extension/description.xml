@@ -14,7 +14,7 @@
   <identifier value="es.urjc.extensions.uml-elements" />
 
   <update-information>
-    <src xlink:href="https://raw.githubusercontent.com/jfvelezserrano/UML-Elements/main/update.sh" />
+    <src xlink:href="https://raw.githubusercontent.com/jfvelezserrano/UML-Elements/main/update.xml" />
   </update-information>
 
   <display-name>
