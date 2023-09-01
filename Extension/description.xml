@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- modify version value if appropirate -->
-  <version value="1.0.4" />
+  <version value="1.0.4.1" />
   <!-- if license should be shown up at installation, add folder resources/ and include the license text there as license_en.txt
 	<registration>
 		<simple-license  accept-by="user" default-license-id="en" suppress-on-update="true">

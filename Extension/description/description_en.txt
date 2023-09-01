@@ -15,3 +15,5 @@ Version 1.0.1 Minor changes post first release.
 Version 1.0.2 Solving usability issues
 Version 1.0.3 Improvements in class element interaction and several new elements
 Version 1.0.4 Reorganization of galleries, addition of more new shapes and fixing minor bugs.
+Version 1.0.4.1 Adding metadata.
+
