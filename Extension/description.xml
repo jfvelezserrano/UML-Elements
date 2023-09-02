@@ -1,20 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- modify version value if appropirate -->
-  <version value="1.0.4.1" />
-  <!-- if license should be shown up at installation, add folder resources/ and include the license text there as license_en.txt
-	<registration>
-		<simple-license  accept-by="user" default-license-id="en" suppress-on-update="true">
-			<license-text xlink:href="resources/license_en.txt" lang="en" license-id="en" />
-		</simple-license>
-	</registration>
--->
-  <!-- replace YOUR EXTENSION NAME by the right name of your extension -->
 
-  <identifier value="es.urjc.extensions.uml-elements" />
+  <version value="1.0.5"/>
+
+  <platform value="all" />
+
+  <identifier value="es.urjc.extensions.uml-elements"/>
 
   <update-information>
-    <src xlink:href="https://raw.githubusercontent.com/jfvelezserrano/UML-Elements/main/update.xml" />
+    <src xlink:href="https://raw.githubusercontent.com/jfvelezserrano/UML-Elements/main/update.xml"/>
   </update-information>
 
   <display-name>
@@ -25,12 +19,12 @@
     <name xlink:href="https://github.com/jfvelezserrano" lang="en">Jose F. Velez</name>
   </publisher>
 
-  <!-- content of the description file (in description folder) is shown in the extension manager.
-	remember to modify it depending on your extension -->
   <extension-description>
-    <src xlink:href="description/description_en.txt" lang="en" />
+    <src xlink:href="description/description_en.txt" lang="en"/>
   </extension-description>
+
   <icon>
-    <default xlink:href="icon.png" />
+    <default xlink:href="icon.png"/>
   </icon>
+
 </description>
