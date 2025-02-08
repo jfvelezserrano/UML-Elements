@@ -20,3 +20,4 @@ Version 1.0.5 Consisten shadows in class elements and all platforms metadata. Ne
 Version 2.0.0 New reduced size for all the shapes. Now, 12 pitch size is default for all the fonts in the shapes. Improvement in shapes: package, component, artifact and complex component.  
 Version 2.0.1 Adjusting glue points, node cube deep, activity start and end nodes
 Version 2.0.2 Recovering decision shape and dependency shape for Activity View gallery. Sorting the shapes in Activity View gallery.
+Version 2.1.0 Improved actor labels. Added a new generalization arrow in the Use Cases gallery. Introduced new shapes for object diagrams in the Static View gallery. Fixed minor errors in the Sequence Diagram example shape.
