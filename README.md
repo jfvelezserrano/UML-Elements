@@ -5,4 +5,4 @@ You can install UML Elements directly from the Libreoffice gallery or from the [
 
 To learn more about this extension you can read the [wiki](https://github.com/jfvelezserrano/UML-Elements/wiki).
 
-![Add more gallery via extension button](https://github.com/user-attachments/assets/8357135b-33af-4f6c-8701-639d7bd05e12)
+![Add more gallery via extension button](https://github.com/jfvelezserrano/UML-Elements/wiki/UML-Elements-wiki)
