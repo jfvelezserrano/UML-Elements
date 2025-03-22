@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document-content xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" office:version="1.3">
+<office:scripts/>
+<office:font-face-decls>
+<style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+<style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+<style:font-face style:name="Unifont" svg:font-family="Unifont" style:font-family-generic="system" style:font-pitch="variable"/>
+</office:font-face-decls>
+<office:automatic-styles>
+<style:style style:name="dp1" style:family="drawing-page"/>
+<style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+<style:graphic-properties draw:stroke="solid" draw:stroke-dash="Dashed_20__28_var_29__20_4" svg:stroke-width="0.053cm" svg:stroke-color="#000000" draw:marker-start="" draw:marker-start-width="0.28cm" draw:marker-start-center="false" draw:marker-end="" draw:marker-end-width="0.28cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.848cm" fo:min-width="2.597cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.227cm" fo:padding-right="0.227cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080" style:writing-mode="lr-tb" loext:decorative="false"/>
+<style:paragraph-properties style:writing-mode="lr-tb"/>
+</style:style>
+<style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+<style:graphic-properties draw:stroke="solid" draw:stroke-dash="Dashed_20__28_var_29__20_4" svg:stroke-width="0.053cm" svg:stroke-color="#000000" draw:marker-start="" draw:marker-start-width="0.28cm" draw:marker-start-center="false" draw:marker-end="" draw:marker-end-width="0.28cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.848cm" fo:min-width="11.598cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.227cm" fo:padding-right="0.227cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080" style:writing-mode="lr-tb" loext:decorative="false"/>
+<style:paragraph-properties style:writing-mode="lr-tb"/>
+</style:style>
+<style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L2">
+<style:graphic-properties draw:stroke="solid" svg:stroke-width="0.053cm" svg:stroke-color="#000000" draw:marker-start="" draw:marker-start-width="0.279cm" draw:marker-start-center="false" draw:marker-end="" draw:marker-end-width="0.279cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.199cm" fo:min-width="2.449cm" fo:padding-top="0.151cm" fo:padding-bottom="0.151cm" fo:padding-left="0.276cm" fo:padding-right="0.276cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080" style:writing-mode="lr-tb" loext:decorative="false"/>
+<style:paragraph-properties style:writing-mode="lr-tb"/>
+</style:style>
+<style:style style:name="P1" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<style:style style:name="P2" style:family="paragraph">
+<loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<style:style style:name="P3" style:family="paragraph">
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Unifont" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<style:style style:name="P4" style:family="paragraph">
+<loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
+<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Unifont" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<style:style style:name="T1" style:family="text">
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<style:style style:name="T2" style:family="text">
+<style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Unifont" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+</style:style>
+<text:list-style style:name="L1">
+<text:list-level-style-bullet text:level="1" text:bullet-char="●">
+<style:list-level-properties text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="●">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="●">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="●">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="●">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="●">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="●">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="●">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="●">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="●">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+<text:list-style style:name="L2">
+<text:list-level-style-bullet text:level="1" text:bullet-char="●">
+<style:list-level-properties text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="2" text:bullet-char="●">
+<style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="3" text:bullet-char="●">
+<style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="4" text:bullet-char="●">
+<style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="5" text:bullet-char="●">
+<style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="6" text:bullet-char="●">
+<style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="7" text:bullet-char="●">
+<style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="8" text:bullet-char="●">
+<style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="9" text:bullet-char="●">
+<style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+<text:list-level-style-bullet text:level="10" text:bullet-char="●">
+<style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+<style:text-properties fo:font-family="OpenSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+</text:list-level-style-bullet>
+</text:list-style>
+</office:automatic-styles>
+<office:body>
+<office:drawing>
+<draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default">
+<draw:custom-shape draw:style-name="gr1" draw:text-style-name="P2" draw:layer="layout" svg:width="3.5cm" svg:height="3.5cm" svg:x="1cm" svg:y="1cm">
+<draw:glue-point draw:id="10" svg:x="-2.777cm" svg:y="5cm"/>
+<draw:glue-point draw:id="11" svg:x="-5cm" svg:y="3cm"/>
+<draw:glue-point draw:id="12" svg:x="-5cm" svg:y="-1cm"/>
+<draw:glue-point draw:id="13" svg:x="1.111cm" svg:y="5cm"/>
+<draw:glue-point draw:id="14" svg:x="3.888cm" svg:y="0.333cm"/>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">
+Node </text:span>
+</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="?f7 0 ?f6 ?f1 0 ?f10 ?f6 21600 ?f4 ?f10 21600 ?f9" draw:path-stretchpoint-x="10800" draw:path-stretchpoint-y="10800" draw:text-areas="0 ?f1 ?f4 ?f12" draw:type="cube" draw:modifiers="2770.17994858612" draw:enhanced-path="M 0 ?f12 L 0 ?f1 ?f2 0 ?f11 0 ?f11 ?f3 ?f4 ?f12 Z N M 0 ?f1 L ?f2 0 ?f11 0 ?f4 ?f1 Z N M ?f4 ?f12 L ?f4 ?f1 ?f11 0 ?f11 ?f3 Z N">
+<draw:equation draw:name="f0" draw:formula="$0 "/>
+<draw:equation draw:name="f1" draw:formula="top+?f0 "/>
+<draw:equation draw:name="f2" draw:formula="left+?f0 "/>
+<draw:equation draw:name="f3" draw:formula="bottom-?f0 "/>
+<draw:equation draw:name="f4" draw:formula="right-?f0 "/>
+<draw:equation draw:name="f5" draw:formula="right-?f2 "/>
+<draw:equation draw:name="f6" draw:formula="?f5 /2"/>
+<draw:equation draw:name="f7" draw:formula="?f2 +?f6 "/>
+<draw:equation draw:name="f8" draw:formula="bottom-?f1 "/>
+<draw:equation draw:name="f9" draw:formula="?f8 /2"/>
+<draw:equation draw:name="f10" draw:formula="?f1 +?f9 "/>
+<draw:equation draw:name="f11" draw:formula="right"/>
+<draw:equation draw:name="f12" draw:formula="bottom"/>
+<draw:handle draw:handle-position="left $0" draw:handle-switched="true" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:custom-shape draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="12.5cm" svg:height="3.5cm" svg:x="1cm" svg:y="5.5cm">
+<draw:glue-point draw:id="10" svg:x="-2.777cm" svg:y="5cm"/>
+<draw:glue-point draw:id="11" svg:x="-5cm" svg:y="3cm"/>
+<draw:glue-point draw:id="12" svg:x="-5cm" svg:y="-1cm"/>
+<draw:glue-point draw:id="13" svg:x="1.111cm" svg:y="5cm"/>
+<draw:glue-point draw:id="14" svg:x="3.888cm" svg:y="0.333cm"/>
+<text:p text:style-name="P1">
+<text:span text:style-name="T1">
+Node </text:span>
+</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="?f7 0 ?f6 ?f1 0 ?f10 ?f6 21600 ?f4 ?f10 21600 ?f9" draw:text-areas="0 ?f1 ?f4 ?f12" draw:type="non-primitive" draw:modifiers="2770.17994858612" draw:enhanced-path="M 0 ?f12 L 0 ?f1 ?f2 0 ?f11 0 ?f11 ?f3 ?f4 ?f12 Z N M 0 ?f1 L ?f2 0 ?f11 0 ?f4 ?f1 Z N M ?f4 ?f12 L ?f4 ?f1 ?f11 0 ?f11 ?f3 Z N">
+<draw:equation draw:name="f0" draw:formula="$0 "/>
+<draw:equation draw:name="f1" draw:formula="top+?f0 "/>
+<draw:equation draw:name="f2" draw:formula="left+?f0 "/>
+<draw:equation draw:name="f3" draw:formula="bottom-?f0 "/>
+<draw:equation draw:name="f4" draw:formula="right-?f0 "/>
+<draw:equation draw:name="f5" draw:formula="right-?f2 "/>
+<draw:equation draw:name="f6" draw:formula="?f5 /2"/>
+<draw:equation draw:name="f7" draw:formula="?f2 +?f6 "/>
+<draw:equation draw:name="f8" draw:formula="bottom-?f1 "/>
+<draw:equation draw:name="f9" draw:formula="?f8 /2"/>
+<draw:equation draw:name="f10" draw:formula="?f1 +?f9 "/>
+<draw:equation draw:name="f11" draw:formula="right"/>
+<draw:equation draw:name="f12" draw:formula="bottom"/>
+<draw:handle draw:handle-position="left $0" draw:handle-switched="true" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+<draw:custom-shape draw:style-name="gr3" draw:text-style-name="P4" draw:layer="layout" svg:width="3cm" svg:height="1.5cm" svg:x="1cm" svg:y="11cm">
+<text:p text:style-name="P3">
+<text:span text:style-name="T2">
+Comment</text:span>
+</text:p>
+<draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:path-stretchpoint-x="10800" draw:path-stretchpoint-y="10800" draw:text-areas="0 0 21600 21600" draw:type="non-primitive" draw:modifiers="5000" draw:enhanced-path="M ?f3 ?f2 L ?f0 ?f2 ?f4 ?f1 ?f4 ?f5 ?f3 ?f5 Z N M ?f0 ?f2 L ?f0 ?f1 ?f4 ?f1 Z N">
+<draw:equation draw:name="f0" draw:formula="right - $0"/>
+<draw:equation draw:name="f1" draw:formula="$0"/>
+<draw:equation draw:name="f2" draw:formula="top"/>
+<draw:equation draw:name="f3" draw:formula="left"/>
+<draw:equation draw:name="f4" draw:formula="right"/>
+<draw:equation draw:name="f5" draw:formula="bottom"/>
+<draw:handle draw:handle-position="?right $0" draw:handle-range-y-minimum="500" draw:handle-range-y-maximum="5000"/>
+</draw:enhanced-geometry>
+</draw:custom-shape>
+</draw:page>
+</office:drawing>
+</office:body>
+</office:document-content>
