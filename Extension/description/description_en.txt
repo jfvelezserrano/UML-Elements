@@ -3,22 +3,9 @@
 The Unified Modeling Language (UML) is a general-purpose language used to represent knowledge. In 2005, UML was also published by the International Organization for Standardization (ISO) as an approved ISO standard. Although UML is a standard way to visualize the design of any system it is mainly used in Software Devolpment scenarios.
 
 This libreoffice extension provides several galleries containing homogeneous UML elements for different types of UML diagrams:
-- Use case diagram
-- Static class diagram
-- Activity diagram
-- Sequence diagram
-- Deployment diagram
-- Package diagram
-
-Version 1.0 presents the UML galeries.
-Version 1.0.1 Minor changes post first release.
-Version 1.0.2 Solving usability issues
-Version 1.0.3 Improvements in class element interaction and several new elements
-Version 1.0.4 Reorganization of galleries, addition of more new shapes and fixing minor bugs.
-Version 1.0.4.1 Adding metadata.
-Version 1.0.5 Consisten shadows in class elements and all platforms metadata. New shapes to symplify the creation of sequence diagrams. Some minor changes.
-Version 2.0.0 New reduced size for all the shapes. Now, 12 pitch size is default for all the fonts in the shapes. Improvement in shapes: package, component, artifact and complex component.  
-Version 2.0.1 Adjusting glue points, node cube deep, activity start and end nodes
-Version 2.0.2 Recovering decision shape and dependency shape for Activity View gallery. Sorting the shapes in Activity View gallery.
-Version 2.1.0 Improved actor and timer labels. Added a new generalization arrow in the Use Cases gallery. Introduced new shapes for object diagrams in the Static View gallery. Fixed minor errors in the Sequence Diagram example shape.
-Version 2.2.0 Improved comment, artifact, and interface shapes. Added the comment shape to every gallery. Execution boxes in sequence diagram shapes now have glue points, and arrows are no longer restricted to horizontal lines. Added a new pin shape and made changes to the communication pin in deployment diagrams.
+- Use case diagram (with the Use cases view gallery)
+- Static class diagram (with the Static View gallery)
+- Activity diagram (with the Activity View gallery)
+- Sequence and Collaboration diagrams (with the Interaction View gallery)
+- Deployment diagram (with the Deployment View gallery)
+- Package diagram (with the Model Management View gallery)

@@ -1,0 +1,13 @@
+Version 1.0 presents the UML galeries.
+Version 1.0.1 Minor changes post first release.
+Version 1.0.2 Solving usability issues
+Version 1.0.3 Improvements in class element interaction and several new elements
+Version 1.0.4 Reorganization of galleries, addition of more new shapes and fixing minor bugs.
+Version 1.0.4.1 Adding metadata.
+Version 1.0.5 Consisten shadows in class elements and all platforms metadata. New shapes to symplify the creation of sequence diagrams. Some minor changes.
+Version 2.0.0 New reduced size for all the shapes. Now, 12 pitch size is default for all the fonts in the shapes. Improvement in shapes: package, component, artifact and complex component.  
+Version 2.0.1 Adjusting glue points, node cube deep, activity start and end nodes
+Version 2.0.2 Recovering decision shape and dependency shape for Activity View gallery. Sorting the shapes in Activity View gallery.
+Version 2.1.0 Improved actor and timer labels. Added a new generalization arrow in the Use Cases gallery. Introduced new shapes for object diagrams in the Static View gallery. Fixed minor errors in the Sequence Diagram example shape.
+Version 2.2.0 Improved comment, artifact, and interface shapes. Added the comment shape to every gallery. Execution boxes in sequence diagram shapes now have glue points, and arrows are no longer restricted to horizontal lines. Added a new pin shape and made changes to the communication pin in deployment diagrams. New examples with shadows and colors.
+
