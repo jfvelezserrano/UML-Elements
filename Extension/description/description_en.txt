@@ -1,6 +1,4 @@
-﻿Free for global use under the LGPL license. If you modify this collection, please give credit to the original author.
-
-The Unified Modeling Language (UML) is a general-purpose modeling language used to represent system structures and behaviors. In 2005, UML was officially published by the International Organization for Standardization (ISO) as an approved ISO standard. While UML is a standardized way to visualize system design, it is primarily used in software development.
+﻿The Unified Modeling Language (UML) is a general-purpose modeling language used to represent system structures and behaviors. In 2005, UML was officially published by the International Organization for Standardization (ISO) as an approved ISO standard. While UML is a standardized way to visualize system design, it is primarily used in software development.
 
 This LibreOffice extension provides a set of galleries containing consistent UML elements for various UML diagram types:
 - Use Case Diagram (Use Cases View gallery)
@@ -9,3 +7,5 @@ This LibreOffice extension provides a set of galleries containing consistent UML
 - Sequence and Collaboration Diagrams (Interaction View gallery)
 - Deployment Diagram (Deployment View gallery)
 - Package Diagram (Model Management View gallery)
+
+Free for global use under the LGPL license. If you modify this collection, please give credit to the original author.
