@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
   <identifier value="es.urjc.extensions.uml-elements" />
-  <version value="2.1.0" />
+  <version value="2.2.0" />
   <update-download>
       <src xlink:href="https://extensions.libreoffice.org/assets/downloads/3725/1743274930/UML_Elements-2.2.0.oxt"/>
   </update-download>
